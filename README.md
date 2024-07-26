@@ -1,4 +1,4 @@
-# Student Management System
+# Student Track Pro
 
 The Student Management System is a desktop application developed in Python using Tkinter for the graphical interface and MySQL for database management. It provides functionalities for managing student records within educational institutions.
 
